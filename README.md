@@ -6,7 +6,7 @@
 
 特に力を入れたのは、実験操作をどう入力するかです。画像認識、QRコード、RGB検出、マイコンとジャイロセンサーなど複数案を検証し、最終的にJoy-Conを使った操作体験を採用しました。
 
-## Tech Stack
+## 使用技術
 
 - Python / Flask
 - JavaScript / Node.js
@@ -16,11 +16,11 @@
 - MySQL / MariaDB
 - Git / GitHub
 
-## Projects
+## 制作実績
 
 ### VCL
 
-![VCL overview](assets/vcl-overview.png)
+![VCLの概要画像](assets/vcl-overview.png)
 
 理科実験を体験的に学べるWebアプリです。実際の薬品を使わずに、注ぐ、混ぜる、反応を見るという流れをWeb上で体験できるようにしました。
 
@@ -30,13 +30,13 @@
 
 ### Hoppy
 
-![Hoppy overview](assets/hoppy-overview.png)
+![Hoppyの概要画像](assets/hoppy-overview.png)
 
 Webアプリケーションのチーム開発として、投稿、コメント、画像投稿、Q&A、フォローなどの機能を含むサービス開発に取り組みました。
 
 Python / Flask、MySQL / MariaDBを中心に、バックエンド実装とデータを扱う機能の理解を深めました。
 
-## Values
+## 大切にしていること
 
 - 目的から技術を選ぶ
 - 実装前に複数案を検証する

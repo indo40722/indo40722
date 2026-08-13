@@ -1,16 +1,40 @@
-## Hi there 👋
+# indo40722
 
-<!--
-**indo40722/indo40722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+大阪の専門学校で、Webアプリケーションの設計と実装を学んでいます。
 
-Here are some ideas to get you started:
+チーム制作では、理科実験を体験的に学べるWebアプリを開発しました。4人チームのリーダーとして、仕様整理、役割分担、技術選定、実装方針の決定に取り組みました。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+特に力を入れたのは、実験操作をどう入力するかです。画像認識、QRコード、RGB検出、マイコンとジャイロセンサーなど複数案を検証し、最終的にJoy-Conを使った操作体験を採用しました。
+
+## Tech Stack
+
+- Python / Flask
+- JavaScript / Node.js
+- HTML / CSS
+- Socket.IO
+- Three.js
+- MySQL / MariaDB
+- Git / GitHub
+
+## Projects
+
+### VCL
+
+理科実験を体験的に学べるWebアプリです。実際の薬品を使わずに、注ぐ、混ぜる、反応を見るという流れをWeb上で体験できるようにしました。
+
+自分はチームリーダーとして、入力方式の検証、Joy-Conを使った操作体験の方針決定、Node.jsとSocket.IOを使ったリアルタイム連携、Three.jsによる3D表現の実装方針整理に関わりました。
+
+学校のチーム制作として進め、学内コンテストで金賞を受賞しました。
+
+### Hoppy
+
+Webアプリケーションのチーム開発として、投稿、コメント、画像投稿、Q&A、フォローなどの機能を含むサービス開発に取り組みました。
+
+Python / Flask、MySQL / MariaDBを中心に、バックエンド実装とデータを扱う機能の理解を深めました。
+
+## Values
+
+- 目的から技術を選ぶ
+- 実装前に複数案を検証する
+- ただ動くだけでなく、ユーザーに伝わる体験にする
+- チームで判断理由を共有できるよう、仕様や設計を言語化する

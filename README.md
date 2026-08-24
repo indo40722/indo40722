@@ -11,7 +11,7 @@
 
 | Project | Overview | My role | Tech |
 | --- | --- | --- | --- |
-| [Portfolio](https://github.com/indo40722/portfolio) | 就活用のポートフォリオサイト | React + TypeScriptで画面構成、作品情報、GitHub Pages公開を整理 | React, TypeScript, Vite |
+| [Portfolio](https://github.com/indo40722/portfolio) | ポートフォリオサイト | React + TypeScriptで画面構成、作品情報、GitHub Pages公開を整理 | React, TypeScript, Vite |
 | [VCL / Virtual Chemistry Lab](https://github.com/indo40722/vcl-case-study) | Joy-Con操作と3D表現で化学実験を安全に体験できる学習システム | 4人チームのリーダー。仕様整理、入力方式の検証、技術選定、役割分担、画面体験の設計を担当 | Node.js, Socket.IO, Three.js, Joy-Con |
 | Hoppy | 趣味道具を貸し借りできるWebサービス。商品レンタルに加え、コミュニティとサポートを一つの体験として設計 | 投稿、画像投稿、いいね、コメント、Q&A、フォロー、お問い合わせ、FAQ、利用ガイドを実装 | Python, Flask, HTML, CSS, JavaScript, MySQL |
 | [Joy-Con Web Input Demo](https://github.com/indo40722/joycon-web-input-demo) | Joy-ConをWebアプリの入力デバイスとして使うための検証メモ | VCLで使う入力方式の候補として、操作感と実装可能性を整理 | Joy-Con, Web Input, JavaScript |

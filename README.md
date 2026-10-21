@@ -6,10 +6,7 @@
 
 <p align="center">
   <a href="https://indo40722.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-%E3%81%93%E3%81%A1%E3%82%89-2563EB?style=for-the-badge" alt="Portfolioはこちら">
-  </a>
-  <a href="https://github.com/indo40722">
-    <img src="https://img.shields.io/badge/GitHub-%40indo40722-181717?style=for-the-badge&logo=github" alt="GitHub @indo40722">
+    <img src="https://img.shields.io/badge/Portfolio-こちら-2563EB?style=for-the-badge" alt="ポートフォリオはこちら">
   </a>
 </p>
 

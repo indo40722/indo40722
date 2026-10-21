@@ -4,8 +4,14 @@
 
 チーム開発では、使う人の迷いや不安を見つけ、画面体験・機能設計・進行管理へ落とし込むことを大切にしています。技術を並べるだけでなく、何を解決するために使ったのかを説明できる状態を目指しています。
 
-- Portfolio: [indo40722.github.io/portfolio](https://indo40722.github.io/portfolio/)
-- GitHub: [@indo40722](https://github.com/indo40722)
+<p align="center">
+  <a href="https://indo40722.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-%E3%81%93%E3%81%A1%E3%82%89-2563EB?style=for-the-badge" alt="Portfolioはこちら">
+  </a>
+  <a href="https://github.com/indo40722">
+    <img src="https://img.shields.io/badge/GitHub-%40indo40722-181717?style=for-the-badge&logo=github" alt="GitHub @indo40722">
+  </a>
+</p>
 
 ## Works
 
